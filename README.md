@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Bearing-Fault-Analysis-Using-Wavelet-Scalograms
+The project performs bearing fault analysis by processing raw vibration signals through segmentation, noise augmentation, and wavelet-based denoising, followed by Continuous Wavelet Transform to generate time frequency scalogram images. The normalized scalograms are formatted as CNN compatible inputs, enabling DL based bearing fault classification.
